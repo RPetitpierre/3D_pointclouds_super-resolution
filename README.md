@@ -1,2 +1,0 @@
-# Augmenting the resolution of 3D pointclouds
-This ML project aims to develop an algorithm to augment the resolution of 3D pointclouds. Our algorithm allows to enter three-dimensional data represented as point clouds and increase their resolution. This operation is conducted using a neural network. In our case, we trained him on a set of data representing the city of Geneva, in the form of point clouds.

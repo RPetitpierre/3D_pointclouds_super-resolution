@@ -1,12 +1,16 @@
-#
-#   3D_pointclouds_super-resolution
-#   Copyright (C) 2018
-#   Rémi Petitpierre, Anna Fredriksson Häägg, Martin Sigmund
-#   Ecole polytechnique fédérale de Lausanne – EPFL
-#
-#   GNU General Public License v 3.0
-#   https://github.com/RPetitpierre/3D_pointclouds_super-resolution
-#
+
+   3D_pointclouds_super-resolution
+   
+   Copyright (C) 2018
+   
+   Rémi Petitpierre, Anna Fredriksson Häägg, Martin Sigmund
+   
+   Ecole polytechnique fédérale de Lausanne – EPFL
+
+   GNU General Public License v 3.0
+   
+   https://github.com/RPetitpierre/3D_pointclouds_super-resolution
+
 
 
 ### main.ipynb ###

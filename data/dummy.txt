@@ -1,0 +1,1 @@
+Hello ! I am just a dummy file to ensure that the folder was created.

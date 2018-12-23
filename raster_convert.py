@@ -1,8 +1,9 @@
-# Taken from :
-#   turing-project Copyright (C) 2017 Nils Hamel
 #
-# GNU General Public License v 3.0
-# https://github.com/nils-hamel/turing-project.git
+# Taken from :
+#  turing-project, Nils Hamel
+#  Copyright (C) 2016-2018 DHLAB, EPFL
+#  GNU General Public License v 3.0
+#  https://github.com/nils-hamel/turing-project.git
 #
 
 # Imports

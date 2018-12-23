@@ -1,8 +1,9 @@
-# Taken from :
-#   turing-project Copyright (C) 2017 Nils Hamel
 #
-# GNU General Public License v 3.0
-# https://github.com/nils-hamel/turing-project.git
+# Taken from :
+#  turing-project, Nils Hamel
+#  Copyright (C) 2016-2018 DHLAB, EPFL
+#  GNU General Public License v 3.0
+#  https://github.com/nils-hamel/turing-project.git
 #
 
 # Import
@@ -67,7 +68,7 @@ def ml_dataset_import( ml_args_dataset, ml_args_raster, ml_args_width ):
             ml_raster_export( ml_data[ml_parse], ml_args_raster + '/raster-{:06d}.ras'.format( ml_parse ) )
 
         # display information #
-        print( 'turing : done' )
+        print( 'turing : done', ml_data.shape)
 
     elif ( ml_args.mode == 'sample' ):
 

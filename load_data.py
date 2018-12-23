@@ -1,8 +1,9 @@
-# Taken from :
-#   turing-project Copyright (C) 2017 Nils Hamel
 #
-# GNU General Public License v 3.0
-# https://github.com/nils-hamel/turing-project.git
+# Adapted from :
+#  turing-project, Nils Hamel
+#  Copyright (C) 2016-2018 DHLAB, EPFL
+#  GNU General Public License v 3.0
+#  https://github.com/nils-hamel/turing-project.git
 #
 
 # Imports
@@ -52,7 +53,7 @@ def get_ml_data(ml_args_raster):
 
     ml_data = []
     
-    for raster_id in range(0, ml_args.count):
+    for raster_id in range(0, int(ml_args.count)):
         
         raster_path = ml_args_raster + '/raster-{:06d}.ras'.format(raster_id)
     

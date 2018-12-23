@@ -36,4 +36,4 @@ def init() :
     # Reload data variable  
     model = './model/'
 
-return True
+    return True
